@@ -24,7 +24,7 @@ Then run:
 ```bash
   gem install jira-ruby
   ```
-Then change the following constants to your preferences:
+Then change the following constants in the features.rb file to your preferences:
 ```
 USERNAME
 PASSWORD
