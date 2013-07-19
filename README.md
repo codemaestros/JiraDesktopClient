@@ -9,7 +9,7 @@ Requirements:
 Ruby 1.9.3
 ```
 
-You can get Ruby [here:](http://rubyinstaller.org/) or to get the whole shebang with Rails(recommended) go [here:](http://railsinstaller.org/)
+You can get Ruby [here](http://rubyinstaller.org/) or to get the whole shebang with Rails(recommended) go [here](http://railsinstaller.org/)
 
 Clone the Repository with 
 
